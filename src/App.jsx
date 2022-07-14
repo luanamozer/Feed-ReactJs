@@ -17,9 +17,9 @@ const posts = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no Ignite ,  da Rocketseat. O nome do projeto é Ignite Feed 🚀",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "@luana.mozzer" },
     ],
     publishedAt: new Date("2022-06-21 11:11:00"),
   },
